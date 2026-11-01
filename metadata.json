@@ -1,0 +1,6 @@
+{
+  "name": "HomesCaravan - Campervan & Caravan Rentals India",
+  "description": "Explore India at your own pace with HomesCaravan. Premium motorhomes, caravans, and campervans for scenic road trips with chauffeur and modern amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
